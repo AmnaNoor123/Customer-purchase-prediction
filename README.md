@@ -47,9 +47,9 @@ Across all three models, **PageValues** emerged as by far the strongest predicto
 
 | File | Description |
 |---|---|
-| `KNN Implementation (fixed + executed).ipynb` | KNN model — feature selection, SMOTE oversampling, best-K search, evaluation |
-| `Logistic Regression Implementation (fixed + executed).ipynb` | Logistic Regression model — feature selection, class-weighted training, coefficient analysis |
-| `Decision Tree Implementation (fixed + executed).ipynb` | Decision Tree model — feature selection, class-weighted training, feature importance, tree visualization |
+| `KNN Implementation.ipynb` | KNN model — feature selection, SMOTE oversampling, best-K search, evaluation |
+| `Logistic Regression Implementation.ipynb` | Logistic Regression model — feature selection, class-weighted training, coefficient analysis |
+| `Decision Tree Implementation.ipynb` | Decision Tree model — feature selection, class-weighted training, feature importance, tree visualization |
 | `ML Project Documentation.docx` | Full written report with methodology, results, graphs, and model comparison |
 
 ## How to Run
